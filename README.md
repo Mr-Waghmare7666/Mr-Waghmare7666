@@ -41,115 +41,66 @@
 
 ---
 
-## 🚀 PROJECT DASHBOARD
+## 🚀 Projects
 
-<p align="center">
-✨ <b>Click on any project to explore</b> 👇
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+### 🧠 Sign Language Detection
 
-<details>
-<summary>🧠 <b>Sign Language Detection (AI/ML)</b></summary>
+**Tech:** Python, ML, OpenCV
 
-<br>
+* Real-time gesture recognition
+* Detects A–Z + phrases
+* Multilingual speech (Hindi, Marathi, English)
+* Uses Machine Learning + Computer Vision
 
-<p align="center">
-<img src="https://img.shields.io/badge/AI-ML-00f7ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-Active-7f00ff?style=for-the-badge"/>
-</p>
+</td>
 
-🔹 Real-time hand gesture detection
-🔹 A–Z alphabet + phrase recognition
-🔹 Multilingual speech output (Hindi | Marathi | English)
-🔹 Built using ML + OpenCV
-
-</details>
-
----
-
-<details>
-<summary>📄 <b>PDF Language Translator</b></summary>
-
-<br>
-
-<p align="center">
-<img src="https://img.shields.io/badge/AI-Translator-00ff9c?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Language-Supported-ff9f00?style=for-the-badge"/>
-</p>
-
-🔹 Translate PDF documents into multiple languages
-🔹 Fast processing with AI
-🔹 Extracts and converts text efficiently
-
-</details>
-
----
-
-<details>
-<summary>📦 <b>Warehouse Management System</b></summary>
-
-<br>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Inventory-System-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business-Logic-00f7ff?style=for-the-badge"/>
-</p>
-
-🔹 Inventory tracking & management
-🔹 Data optimization & reporting
-🔹 Efficient warehouse operations
-
-</details>
-
----
-
-<details>
-<summary>👕 <b>GrockTrack (Clothing Tracker)</b></summary>
-
-<br>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Smart-Tracking-7f00ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/User-Friendly-00ff9c?style=for-the-badge"/>
-</p>
-
-🔹 Tracks clothing usage
-🔹 Helps manage wardrobe smartly
-🔹 Clean and simple UI
-
-</details>
-
----
-
-<p align="center">
-⚡ <b>Interactive Dashboard Style Enabled</b> ⚡
-</p>
-
+<td width="50%">
 
 ### 📄 PDF Language Translator
 
-✔ Translate PDFs using AI
-✔ Multi-language support
-✔ Fast & efficient processing
+**Tech:** Python, AI
 
----
+* Translate PDF documents
+* Multi-language support
+* Fast and efficient processing
+* Extracts and converts text
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📦 Warehouse Management System
 
-✔ Inventory tracking system
-✔ Data handling & optimization
-✔ Business logic implementation
+**Tech:** Java / Database
 
----
+* Inventory tracking system
+* Data handling & reporting
+* Business logic implementation
+* Improves operational efficiency
+
+</td>
+
+<td width="50%">
 
 ### 👕 GrockTrack (Clothing Tracker)
 
-✔ Track clothes usage & management
-✔ Smart tracking logic
-✔ User-friendly interface
+**Tech:** Web / Logic
 
----
+* Tracks clothing usage
+* Helps manage wardrobe
+* Simple and user-friendly
+* Smart tracking system
+
+</td>
+</tr>
+</table>
+
 
 ## 📊 GITHUB ANALYTICS
 
