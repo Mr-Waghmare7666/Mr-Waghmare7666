@@ -1,0 +1,32 @@
+name: Generate Neon Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Mr-Waghmare7666
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=cyan&color_dots=#0f172a,#00f7ff,#7f00ff,#00ff9c,#ffffff
+
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
