@@ -49,12 +49,18 @@
 
 ### 🧠 Sign Language Detection
 
+<img src="https://via.placeholder.com/400x200" width="100%"/>
+
 **Tech:** Python, ML, OpenCV
 
 * Real-time gesture recognition
 * Detects A–Z + phrases
 * Multilingual speech (Hindi, Marathi, English)
-* Uses Machine Learning + Computer Vision
+
+<p>
+<a href="#"><img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel"></a>
+</p>
 
 </td>
 
@@ -62,12 +68,18 @@
 
 ### 📄 PDF Language Translator
 
+<img src="https://via.placeholder.com/400x200" width="100%"/>
+
 **Tech:** Python, AI
 
 * Translate PDF documents
 * Multi-language support
-* Fast and efficient processing
-* Extracts and converts text
+* Fast processing
+
+<p>
+<a href="#"><img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel"></a>
+</p>
 
 </td>
 </tr>
@@ -77,12 +89,18 @@
 
 ### 📦 Warehouse Management System
 
-**Tech:** Java / Database
+<img src="https://via.placeholder.com/400x200" width="100%"/>
 
-* Inventory tracking system
-* Data handling & reporting
-* Business logic implementation
-* Improves operational efficiency
+**Tech:** Java, Database
+
+* Inventory tracking
+* Data management
+* Business logic
+
+<p>
+<a href="#"><img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel"></a>
+</p>
 
 </td>
 
@@ -90,16 +108,23 @@
 
 ### 👕 GrockTrack (Clothing Tracker)
 
-**Tech:** Web / Logic
+<img src="https://via.placeholder.com/400x200" width="100%"/>
 
-* Tracks clothing usage
-* Helps manage wardrobe
-* Simple and user-friendly
-* Smart tracking system
+**Tech:** Web, Logic
+
+* Track clothes usage
+* Smart wardrobe system
+* User-friendly
+
+<p>
+<a href="#"><img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel"></a>
+</p>
 
 </td>
 </tr>
 </table>
+
 
 
 ## 📊 GITHUB ANALYTICS
