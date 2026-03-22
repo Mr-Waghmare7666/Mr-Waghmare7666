@@ -41,74 +41,91 @@
 
 ---
 
-## 🚀 PROJECT SHOWCASE
+## 🚀 PROJECT DASHBOARD
 
 <p align="center">
-
-<!-- Project 1 -->
-
-<img src="https://img.shields.io/badge/🧠%20Sign%20Language%20Detection-AI%20%7C%20ML-00f7ff?style=for-the-badge"/>
-
+✨ <b>Click on any project to explore</b> 👇
 </p>
 
-🔹 **Real-time Gesture Detection System**
-✨ Detects A–Z alphabets + smart phrases
-🌍 Multilingual speech (Hindi | Marathi | English)
-🤖 Built using Machine Learning + Computer Vision
+---
+
+<details>
+<summary>🧠 <b>Sign Language Detection (AI/ML)</b></summary>
+
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI-ML-00f7ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-Active-7f00ff?style=for-the-badge"/>
+</p>
+
+🔹 Real-time hand gesture detection
+🔹 A–Z alphabet + phrase recognition
+🔹 Multilingual speech output (Hindi | Marathi | English)
+🔹 Built using ML + OpenCV
+
+</details>
+
+---
+
+<details>
+<summary>📄 <b>PDF Language Translator</b></summary>
+
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Translator-00ff9c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Language-Supported-ff9f00?style=for-the-badge"/>
+</p>
+
+🔹 Translate PDF documents into multiple languages
+🔹 Fast processing with AI
+🔹 Extracts and converts text efficiently
+
+</details>
+
+---
+
+<details>
+<summary>📦 <b>Warehouse Management System</b></summary>
+
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Inventory-System-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business-Logic-00f7ff?style=for-the-badge"/>
+</p>
+
+🔹 Inventory tracking & management
+🔹 Data optimization & reporting
+🔹 Efficient warehouse operations
+
+</details>
+
+---
+
+<details>
+<summary>👕 <b>GrockTrack (Clothing Tracker)</b></summary>
+
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Smart-Tracking-7f00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/User-Friendly-00ff9c?style=for-the-badge"/>
+</p>
+
+🔹 Tracks clothing usage
+🔹 Helps manage wardrobe smartly
+🔹 Clean and simple UI
+
+</details>
 
 ---
 
 <p align="center">
-
-<!-- Project 2 -->
-
-<img src="https://img.shields.io/badge/📄%20PDF%20Language%20Translator-AI%20Tool-7f00ff?style=for-the-badge"/>
-
+⚡ <b>Interactive Dashboard Style Enabled</b> ⚡
 </p>
 
-🔹 **AI-Based Document Translator**
-🌐 Supports multiple languages
-⚡ Fast and efficient processing
-📚 Extracts & translates PDF content
-
----
-
-<p align="center">
-
-<!-- Project 3 -->
-
-<img src="https://img.shields.io/badge/📦%20Warehouse%20Management%20System-Business%20App-00ff9c?style=for-the-badge"/>
-
-</p>
-
-🔹 **Inventory Management System**
-📊 Tracks stock and warehouse data
-⚙️ Optimized business logic
-📈 Improves efficiency & organization
-
----
-
-<p align="center">
-
-<!-- Project 4 -->
-
-<img src="https://img.shields.io/badge/👕%20GrockTrack-Clothing%20Tracker-ff9f00?style=for-the-badge"/>
-
-</p>
-
-🔹 **Smart Clothing Tracker App**
-🧠 Tracks usage of clothes
-📅 Helps manage wardrobe efficiently
-🎯 User-friendly interface
-
----
-
-<p align="center">
-✨ <b>More projects coming soon...</b> 🚀
-</p>
-
-
----
 
 ### 📄 PDF Language Translator
 
