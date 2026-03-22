@@ -43,12 +43,70 @@
 
 ## 🚀 PROJECT SHOWCASE
 
-### 🧠 Sign Language Detection (ML)
+<p align="center">
 
-✔ Real-time gesture detection
-✔ A–Z + phrases recognition
-✔ Multilingual speech (Hindi | Marathi | English)
-✔ ML + Computer Vision
+<!-- Project 1 -->
+
+<img src="https://img.shields.io/badge/🧠%20Sign%20Language%20Detection-AI%20%7C%20ML-00f7ff?style=for-the-badge"/>
+
+</p>
+
+🔹 **Real-time Gesture Detection System**
+✨ Detects A–Z alphabets + smart phrases
+🌍 Multilingual speech (Hindi | Marathi | English)
+🤖 Built using Machine Learning + Computer Vision
+
+---
+
+<p align="center">
+
+<!-- Project 2 -->
+
+<img src="https://img.shields.io/badge/📄%20PDF%20Language%20Translator-AI%20Tool-7f00ff?style=for-the-badge"/>
+
+</p>
+
+🔹 **AI-Based Document Translator**
+🌐 Supports multiple languages
+⚡ Fast and efficient processing
+📚 Extracts & translates PDF content
+
+---
+
+<p align="center">
+
+<!-- Project 3 -->
+
+<img src="https://img.shields.io/badge/📦%20Warehouse%20Management%20System-Business%20App-00ff9c?style=for-the-badge"/>
+
+</p>
+
+🔹 **Inventory Management System**
+📊 Tracks stock and warehouse data
+⚙️ Optimized business logic
+📈 Improves efficiency & organization
+
+---
+
+<p align="center">
+
+<!-- Project 4 -->
+
+<img src="https://img.shields.io/badge/👕%20GrockTrack-Clothing%20Tracker-ff9f00?style=for-the-badge"/>
+
+</p>
+
+🔹 **Smart Clothing Tracker App**
+🧠 Tracks usage of clothes
+📅 Helps manage wardrobe efficiently
+🎯 User-friendly interface
+
+---
+
+<p align="center">
+✨ <b>More projects coming soon...</b> 🚀
+</p>
+
 
 ---
 
