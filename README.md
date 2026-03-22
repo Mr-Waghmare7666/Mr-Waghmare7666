@@ -16,44 +16,68 @@
 
 ## 🧠 About Me
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7F00FF&size=25&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Python+Developer;AI+%7C+ML+Enthusiast;Data+Analytics+Learner;Building+Real+World+Projects+🚀" />
+</p>
+
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-💫 Hey there! I'm **Omkar Rajkumar Waghmare**
+💫 Hello! I'm **Omkar Rajkumar Waghmare**
 
-🎓 A passionate **Computer Engineering Student (2026)** from 🇮🇳 Pune
-💻 A dedicated **Python Developer & Full Stack Enthusiast**
-🤖 Deeply interested in **AI, Machine Learning & Data Analytics**
+🎓 A motivated **Computer Engineering Student (2026)**
+📍 Based in **Pune, India 🇮🇳**
 
----
-
-### 🚀 What I Do
-
-✨ Build real-world projects using **AI & ML**
-📊 Work on **data-driven solutions & analytics**
-🌐 Develop **web-based applications**
-⚡ Constantly improving my **problem-solving skills**
+💻 Passionate about **Python Development & Full Stack Web Development**
+🤖 Exploring the world of **Artificial Intelligence & Machine Learning**
+📊 Interested in **Data Analytics & Problem Solving**
 
 ---
 
-### 🧩 My Strengths
+### 🌈 What I Do
 
-✔️ Quick Learner & Self-Motivated
-✔️ Strong Problem Solving Mindset
-✔️ Good Communication & Teamwork
-✔️ Passion for Continuous Learning
+🔹 Build real-world applications using **AI & ML**
+🔹 Develop responsive **web-based systems**
+🔹 Analyze data to extract meaningful insights
+🔹 Continuously learn and improve technical skills
 
 ---
 
-### 🎯 Current Focus
+### 🚀 Current Focus
 
-🔥 Enhancing skills in **AI/ML & Data Analytics**
-🚀 Building impactful **real-world applications**
-📈 Preparing for a strong career in **Software & IT Industry**
+🔥 Strengthening **AI/ML & Data Analytics skills**
+🚀 Building impactful and scalable projects
+📈 Preparing for career growth in IT industry
+
+---
+
+## 📊 Skills & Expertise
+
+### 💻 Programming
+
+![Python](https://img.shields.io/badge/Python-90%25-00f7ff?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-75%25-7f00ff?style=for-the-badge\&logo=java)
+![C++](https://img.shields.io/badge/C++-70%25-00ff9c?style=for-the-badge\&logo=cplusplus)
+
+---
+
+### 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/HTML-85%25-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge\&logo=javascript)
+
+---
+
+### 🤖 AI / Data
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-80%25-00f7ff?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-75%25-7f00ff?style=for-the-badge)
+![Python Data](https://img.shields.io/badge/Data%20with%20Python-80%25-00ff9c?style=for-the-badge)
 
 ---
 
 <p align="center">
-✨ <b>"I don’t just learn technology, I build with it."</b> 🚀
+✨ <b>"Consistency + Learning = Growth 🚀"</b>
 </p>
 
 
