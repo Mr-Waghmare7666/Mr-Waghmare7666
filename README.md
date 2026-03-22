@@ -14,16 +14,48 @@
 
 ---
 
-## 🧠 ABOUT ME
+## 🧠 About Me
 
-```diff
-+ Name        : Omkar Rajkumar Waghmare
-+ Role        : Python Developer | AI/ML Enthusiast
-+ Education   : B.E Computer Engineering (2026)
-+ Location    : Pune, India
-+ Focus       : AI | ML | Web | Data Analytics
-+ Mindset     : Build → Learn → Improve → Repeat 🚀
-```
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+💫 Hey there! I'm **Omkar Rajkumar Waghmare**
+
+🎓 A passionate **Computer Engineering Student (2026)** from 🇮🇳 Pune
+💻 A dedicated **Python Developer & Full Stack Enthusiast**
+🤖 Deeply interested in **AI, Machine Learning & Data Analytics**
+
+---
+
+### 🚀 What I Do
+
+✨ Build real-world projects using **AI & ML**
+📊 Work on **data-driven solutions & analytics**
+🌐 Develop **web-based applications**
+⚡ Constantly improving my **problem-solving skills**
+
+---
+
+### 🧩 My Strengths
+
+✔️ Quick Learner & Self-Motivated
+✔️ Strong Problem Solving Mindset
+✔️ Good Communication & Teamwork
+✔️ Passion for Continuous Learning
+
+---
+
+### 🎯 Current Focus
+
+🔥 Enhancing skills in **AI/ML & Data Analytics**
+🚀 Building impactful **real-world applications**
+📈 Preparing for a strong career in **Software & IT Industry**
+
+---
+
+<p align="center">
+✨ <b>"I don’t just learn technology, I build with it."</b> 🚀
+</p>
+
 
 ---
 
