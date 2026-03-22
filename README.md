@@ -34,9 +34,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-Advanced-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web%20Development-FullStack-00f7ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-00f7ff?style=for-the-badge"/>
 </p>
 
 ---
